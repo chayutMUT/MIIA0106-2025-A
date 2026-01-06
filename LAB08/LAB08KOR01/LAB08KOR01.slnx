@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../LAB08KOR2/LAB08KOR2.vcxproj" Id="2f689715-0e60-4c54-be48-fd4409727bcb" />
+  <Project Path="../LAB08KOR3/LAB08KOR3.vcxproj" Id="a83b8762-b514-4acd-b01a-3bb9f38e4b00" />
+  <Project Path="../LAB08KOR4/LAB08KOR4.vcxproj" Id="acf6c566-228d-4226-a751-db551b3040bd" />
+  <Project Path="../LAB08KOR5/LAB08KOR5.vcxproj" Id="65d80a3d-d2a6-4920-942d-7cd58a157d84" />
+  <Project Path="../LAB08KOR6/LAB08KOR6.vcxproj" Id="d61f10d2-f5e0-43d6-aa41-fde897996b01" />
+  <Project Path="../LAB08KOR7/LAB08KOR7.vcxproj" Id="1abbc87a-f380-4408-be69-6d6760fd7b87" />
+  <Project Path="LAB08KOR01.vcxproj" Id="58bbf5c6-3870-43bb-9890-c5e49fd03305" />
+</Solution>
